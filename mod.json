@@ -1,0 +1,9 @@
+{
+	"geode": "2.0.0-beta.10",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "amyspark-ng.random-buttons",
+	"name": "Random creator buttons",
+	"developer": "amyspark-ng",
+	"description": "Silly mod that shuffles the creator layer buttons"
+}
